@@ -1,0 +1,16 @@
+{
+  "name": "iocdacc-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./src/index.js",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "shelljs": "^0.8.3"
+  }
+}
